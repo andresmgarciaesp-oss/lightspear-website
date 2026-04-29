@@ -9,6 +9,10 @@
     "vite": "latest",
     "react": "latest",
     "react-dom": "latest",
+    "@tailwindcss/postcss": "latest",
+    "tailwindcss": "latest",
+    "postcss": "latest",
+    "autoprefixer": "latest"
   },
   "devDependencies": {}
 }
