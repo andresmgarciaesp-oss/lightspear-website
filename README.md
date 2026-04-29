@@ -1,5 +1,6 @@
-[index.html](https://github.com/user-attachments/files/27188793/index.html)
-[package.json](https://github.com/user-attachments/files/27188794/package.json)
-[tailwind.config.js](https://github.com/user-attachments/files/27188797/tailwind.config.js)
-[README.md](https://github.com/user-attachments/files/27188796/README.md)
-[postcss.config.js](https://github.com/user-attachments/files/27188795/postcss.config.js)
+# Light Spear LLC Website
+
+Professional website for Light Spear LLC.
+
+## Deploy
+This project is ready to deploy on Vercel.
